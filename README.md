@@ -1,4 +1,4 @@
-# auto-ls
+# auto-ls-zsh
 My version of `auto-ls` with git status if git work tree detected.
 
 <img src="https://user-images.githubusercontent.com/33410545/146388322-5a1cca15-5e1a-4810-8346-744eb78a5190.png" width="600"/>
